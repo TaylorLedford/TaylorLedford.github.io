@@ -1,13 +1,7 @@
 ---
-title: "My Website"
+title: "Welcome"
 ---
-
-My website
-
-```{r}
-x <- 1:10
-y <- 21:30
-plot(x,y)
-```
+This is my website. I hope you enjoy my creation!
 
 
+![](Hero_SpacePage_Galaxy.jpg)
