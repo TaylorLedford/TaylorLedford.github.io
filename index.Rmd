@@ -6,4 +6,4 @@ This is my website. I hope you enjoy my creation!
 
 ![](Hero_SpacePage_Galaxy.jpg)
 
-[Click for a surprise](Cat-Drinking-Water.gif)
+#[Click for a surprise](Cat-Drinking-Water.gif)
