@@ -2,10 +2,15 @@
 title: "Useful Links"
 ---
 
-https://bannerweb.appstate.edu/pls/PROD/twbkwbis.P_WWWLogin
+[AppalNet](https://bannerweb.appstate.edu/pls/PROD/twbkwbis.P_WWWLogin)
 
-https://asulearn.appstate.edu/
+[AsULearn](https://asulearn.appstate.edu/)
 
-https://dw.appstate.edu/Dashboard/login.html
+[DegreeWorks](https://dw.appstate.edu/Dashboard/login.html)
 
-https://www.datacamp.com/
+[DataCamp](https://www.datacamp.com/)
+
+[GitHub](https://github.com/)
+
+[Course Page](https://stat-jet-asu.github.io/DataScience1/CoursePacing/CoursePacingS2018.html)
+
