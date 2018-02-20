@@ -1,16 +1,17 @@
-name: "my-website"
-output_dir: "."
+name: my-website
+output_dir: '.'
 navbar:
-  title: "My Website"
+  title: Home
   right:
-    - text: "About"
-      href: about.html
-    - text: "Useful Links"
-      href: link.html
+  - text: About
+    href: about.html
+  - text: Useful Links
+    href: link.html
 output:
   html_document:
     theme: cosmo
     highlight: textmate
-    include:
-    #  after_body: footer.html
- 
+    include: ~
+    lib_dir: site_libs
+    self_contained: no
+
